@@ -2,3 +2,7 @@ body {
   text-align: center;
   background-image: url(../background.svg);
 }
+
+image, iframe{
+  max-width: 100%;
+}
